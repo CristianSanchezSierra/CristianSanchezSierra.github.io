@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CristianSanchezSierra.github.io/static/css/main.528d6887.css",
+    "main.js": "/CristianSanchezSierra.github.io/static/js/main.e27cebe1.js",
+    "static/media/PDF.PNG": "/CristianSanchezSierra.github.io/static/media/PDF.400b11b7394479ce16cf.PNG",
+    "static/media/bo2.jpg": "/CristianSanchezSierra.github.io/static/media/bo2.1c1b29de6766dc8e4682.jpg",
+    "static/media/city.jpg": "/CristianSanchezSierra.github.io/static/media/city.6431d0f477de12e508c0.jpg",
+    "index.html": "/CristianSanchezSierra.github.io/index.html",
+    "main.528d6887.css.map": "/CristianSanchezSierra.github.io/static/css/main.528d6887.css.map",
+    "main.e27cebe1.js.map": "/CristianSanchezSierra.github.io/static/js/main.e27cebe1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.528d6887.css",
+    "static/js/main.e27cebe1.js"
+  ]
+}
