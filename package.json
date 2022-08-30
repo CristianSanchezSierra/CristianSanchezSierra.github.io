@@ -1,7 +1,7 @@
 {
   "name": "miweb",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "http://cristiansanchezsierra.github.io/cristianSanchezsierra.github.io",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.2",
