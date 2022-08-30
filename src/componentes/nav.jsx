@@ -48,7 +48,7 @@ const Nav =()=>{
             </Link>
 
             <Link
-            to={`/`}
+            to={`/miweb`}
             >
              <FontAwesomeIcon className="text-gray-900 animate-pulse h-[90px] mt-1 ml-5" icon={faEarth} />
             </Link>

@@ -17,7 +17,7 @@ function App() {
     <BrowserRouter>
       <Routes>
       <Route
-          path='/'
+          path='/miweb'
           element={<Inicio />}
         />
         <Route
