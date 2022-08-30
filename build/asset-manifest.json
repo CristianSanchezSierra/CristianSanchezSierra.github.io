@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.528d6887.css",
-    "main.js": "/static/js/main.c0689842.js",
-    "static/media/PDF.PNG": "/static/media/PDF.400b11b7394479ce16cf.PNG",
-    "static/media/bo2.jpg": "/static/media/bo2.1c1b29de6766dc8e4682.jpg",
-    "static/media/city.jpg": "/static/media/city.6431d0f477de12e508c0.jpg",
-    "index.html": "/index.html",
-    "main.528d6887.css.map": "/static/css/main.528d6887.css.map",
-    "main.c0689842.js.map": "/static/js/main.c0689842.js.map"
+    "main.css": "/cristianSanchezsierra.github.io/static/css/main.528d6887.css",
+    "main.js": "/cristianSanchezsierra.github.io/static/js/main.f5f07d25.js",
+    "static/media/PDF.PNG": "/cristianSanchezsierra.github.io/static/media/PDF.400b11b7394479ce16cf.PNG",
+    "static/media/bo2.jpg": "/cristianSanchezsierra.github.io/static/media/bo2.1c1b29de6766dc8e4682.jpg",
+    "static/media/city.jpg": "/cristianSanchezsierra.github.io/static/media/city.6431d0f477de12e508c0.jpg",
+    "index.html": "/cristianSanchezsierra.github.io/index.html",
+    "main.528d6887.css.map": "/cristianSanchezsierra.github.io/static/css/main.528d6887.css.map",
+    "main.f5f07d25.js.map": "/cristianSanchezsierra.github.io/static/js/main.f5f07d25.js.map"
   },
   "entrypoints": [
     "static/css/main.528d6887.css",
-    "static/js/main.c0689842.js"
+    "static/js/main.f5f07d25.js"
   ]
 }
