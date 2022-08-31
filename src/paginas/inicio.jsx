@@ -30,9 +30,10 @@ const Inicio =()=>{
         <div className="bg-stone-900 h-screen w-full items-center flex flex-col">
             <Nav/>
             <div className="flex flex-col w-full min-h-[100%] bg-stone-900">
-                <div className="w-full h-full flex flex-row items-center justify-center text-white">
-                    <h1 className="text-4xl mt-[80px] w-[40%]">Welcome to my web. <br /> You can know about my profesional profile and also personal things that i have the pleasure to share.</h1>
-                    <img className="h-[600px] mix-blend-overlay ml-[300px] mt-[100px] rounded-[20px]" src={img1}  />
+                <div className="w-full h-full flex flex-col md:flex-row items-center justify-center text-white">
+                    <img className="md:hidden h-[300px] w-auto mt-[100px] md:h-[600px] md:w-auto mix-blend-overlay md:ml-[300px] md:mt-[100px] border-dashed border-2 rounded-full" src={img1}  />
+                    <h1 className="md:text-4xl text-center text-xl mt-12 md:mt-[150px] md:mt-[80px] md:w-[40%]">Hello! Im Cristian Sanchez Sierra <br /> welcome to my web. <br /> You can know about my profesional profile and also personal things that i have the pleasure to share.</h1>
+                    <img className="hidden md:block h-[300px] w-[300px] mt-[100px] md:h-[600px] md:w-auto mix-blend-overlay md:ml-[300px] md:mt-[100px] rounded-[20px]" src={img1}  />
                 </div>
             </div>
 
@@ -53,7 +54,7 @@ const Inicio =()=>{
                         <p>GMAIL</p>
                     </a>
 
-                    <img className="h-[30%] w-full rounded-lg opacity-50 mt-24 drop-shadow-2xl" src={img} />
+                    <img className=" h-[30%] w-full rounded-lg opacity-50 mt-24 drop-shadow-2xl" src={img} />
                 </div>
             </div>
                 
