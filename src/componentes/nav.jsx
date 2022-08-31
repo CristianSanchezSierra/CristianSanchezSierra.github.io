@@ -38,7 +38,7 @@ const Nav =()=>{
                 <button onClick={()=>{setOpenModal(true)}} className="openModalBtn text-center">CV</button> 
             </div>
 
-            <FontAwesomeIcon className="md:hidden h-12 mt-4 mr-5" onClick={toggles} icon={faBars} />
+            <FontAwesomeIcon className="md:hidden h-12 mt-4 mr-5 ml-10" onClick={toggles} icon={faBars} />
             {openModal && <Modal closeModal={setOpenModal}/>}
           
             <a className="hidden md:flex text-center text-white text-2xl flex items-center justify-center md:mr-24 transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110  duration-300" href="#cont">Contact and links</a> 
