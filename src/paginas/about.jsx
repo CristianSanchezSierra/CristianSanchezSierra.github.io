@@ -3,7 +3,11 @@ import Nav from "../componentes/nav";
 
 const Aboutt =()=>{
     return(
-        <Nav />
+        <div>
+            <Nav />
+            <p className="text-white">doutime</p>
+
+        </div>
     )
 
 }
